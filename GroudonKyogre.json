@@ -1,0 +1,199 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "ca8fb1",
+      "Name": "Deck",
+      "Transform": {
+        "posX": -82.1208649,
+        "posY": 1.10969889,
+        "posZ": -12.44945,
+        "rotX": 9.907447E-06,
+        "rotY": 179.999969,
+        "rotZ": 5.949964E-07,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": false,
+      "SidewaysCard": false,
+      "DeckIDs": [
+        2502,
+        2508
+      ],
+      "CustomDeck": {
+        "25": {
+          "FaceURL": "https://i.imgur.com/uwUJq08.jpg",
+          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/993492320947720504/9BE66430CD3C340060773E321DDD5FD86C1F2703/",
+          "NumWidth": 10,
+          "NumHeight": 7,
+          "BackIsHidden": true,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "GUID": "bea25a",
+          "Name": "Card",
+          "Transform": {
+            "posX": -82.1208649,
+            "posY": 1.09272993,
+            "posZ": -12.44945,
+            "rotX": 0.000144642472,
+            "rotY": 179.999969,
+            "rotZ": 0.0009255514,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Team Aqua's Kyogre",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 2502,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "25": {
+              "FaceURL": "https://i.imgur.com/uwUJq08.jpg",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/993492320947720504/9BE66430CD3C340060773E321DDD5FD86C1F2703/",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "3cbf33",
+          "Name": "Card",
+          "Transform": {
+            "posX": -82.13729,
+            "posY": 1.13647306,
+            "posZ": -12.6926308,
+            "rotX": 0.00296078,
+            "rotY": 179.999969,
+            "rotZ": 0.0008699471,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Team Magma's Groudon",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 2508,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "25": {
+              "FaceURL": "https://i.imgur.com/uwUJq08.jpg",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/993492320947720504/9BE66430CD3C340060773E321DDD5FD86C1F2703/",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    }
+  ]
+}
